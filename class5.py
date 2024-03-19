@@ -37,9 +37,4 @@
 #     print(x, y)
 
 
-arr=[0]*5
-i=0
-while i<5:
-    arr[i]=i
-    i=i+1
-print(arr)
+
